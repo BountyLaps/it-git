@@ -1,1 +1,2 @@
 un deuxième fichier
+une nouvelle ligne dans le fichier 2
